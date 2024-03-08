@@ -1,12 +1,13 @@
 Pokemon React App 
 Una aplicacion de Pokedex construida con React y la API de de Pokemon.
 
-Caracteristicas principales:
-Lista Pokemon: Muestra una lista de los primero 110 pokemon obtenido a traves de la API.
+Características Principales:
 
-Detalles de cada Pokemon: Proporciona detalles para cada pokemon, como nombre, tipo, etc.
+Lista Pokemon: Descubre una lista cautivadora de los primeros 110 Pokémon obtenidos a través de la API.
 
-Filtrado por tipo: Permite a los usuarios filtrar Pokemon por su tipo especifico
+Detalles de cada Pokémon: Sumérgete en el fascinante mundo de cada Pokémon con detalles como nombre, tipo, y más.
+
+Filtrado por tipo: Personaliza tu experiencia al filtrar Pokémon por su tipo específico.
 
 Como usar:
 Clona el repositorio para revisar el codigo fuente.
